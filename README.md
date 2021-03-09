@@ -19,3 +19,4 @@ Visual STudio Code
 Atom 
 Brackets 
 Sublime Text
+.
