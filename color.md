@@ -53,6 +53,6 @@ next to the radio buttons that
 say R, G, B.
 The hex value is provided
 next to the pound or hash
-/# symbol. There is also a
+\# symbol. There is also a
 good color picking tool at:
 colorschemedesigner.com
