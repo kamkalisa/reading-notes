@@ -1,5 +1,4 @@
-The color property allows you
-to specify the color of text inside
+- The color property allows you to specify the color of text inside
 an element. You can specify any
 color in CSS in one of three ways:
 rgb values
@@ -54,6 +53,6 @@ next to the radio buttons that
 say R, G, B.
 The hex value is provided
 next to the pound or hash
-# symbol. There is also a
+/# symbol. There is also a
 good color picking tool at:
 colorschemedesigner.com
