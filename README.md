@@ -1,5 +1,6 @@
 # reading-notes
 ## Table of Contents
+  * [Introduction](Introduction)
   * [color](color)
   * [growthmindsetnote](growthmindsetnote)
   * [process&design](process&design)
